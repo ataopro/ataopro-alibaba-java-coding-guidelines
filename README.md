@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/github/license/ataopro/ataopro-alibaba-java-coding-guidelines?style=flat)](https://github.com/ataopro/ataopro-alibaba-java-coding-guidelines/blob/main/LICENSE)
 [![Version](https://img.shields.io/badge/version-1.1.0-blue?style=flat)](https://github.com/ataopro/ataopro-alibaba-java-coding-guidelines)
 
-基于阿里巴巴Java开发手册，为opencode agent提供的代码规范检查技能。
+基于阿里巴巴Java开发手册，为遵循Skills规范的Agent提供的代码规范检查技能。
 
 ## 功能特性
 
@@ -24,7 +24,7 @@
 
 ### 安装
 
-将本技能添加到opencode：
+将本技能添加到支持Skills规范的Agent：
 
 ```bash
 npx skills add ataopro/ataopro-alibaba-java-coding-guidelines
